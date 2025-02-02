@@ -1,0 +1,51 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "nextjs-dashboard/app/ui/",
+            "color": "foldercolorizer.color_9900cc"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/",
+            "color": "foldercolorizer.color_ff0000"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/ui/invoices/",
+            "color": "foldercolorizer.color_006699"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/ui/dashboard/",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/seed/"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/lib/",
+            "color": "foldercolorizer.color_99cc00"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/",
+            "color": "foldercolorizer.color_33cccc"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/invoices/",
+            "color": "foldercolorizer.color_ffccff"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/customers/",
+            "color": "foldercolorizer.color_ffcc00"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/clients/",
+            "color": "foldercolorizer.color_3366ff"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/(overview)/",
+            "color": "foldercolorizer.color_ff3399"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/ui/customers/",
+            "color": "foldercolorizer.color_cc6600"
+        }
+    ]
+}
